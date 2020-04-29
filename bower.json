@@ -9,12 +9,9 @@
   "dependencies": {
     "purescript-functions": "^4.0.0"
   },
-  "devDependencies": {
-    "purescript-psci-support": "^4.0.0"
-  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/athanclark/purescript-inflection.git"
+    "url": "https://github.com/athanclark/purescript-inflection.git"
   },
   "license": "BSD-3-Clause"
 }
